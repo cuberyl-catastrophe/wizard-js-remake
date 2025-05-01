@@ -19,11 +19,11 @@ Reworked code to use game-instance from xander-js-3
 Remake of my Greenfoot wizard game.
 Link to the original Java version: https://www.greenfoot.org/scenarios/27474
 
-You can play the most recent release of the game without downloading anything by [visiting this website](https://ehren-strifling.github.io/wizard-js-remake/).
+You can play the most recent release of the game without downloading anything by [visiting this website](https://cuberyl-catastrophe.github.io/wizard-js-remake/).
 
 The main file is index.html.
 Running this requires you to download the "xander-js-3" submodule.   
-https://github.com/Ehren-Strifling/xander-js-3
+https://github.com/cuberyl-catastrophe/xander-js-3
 
 If you do not want to download it then you can try **wizard-js-portable.html** in the portable folder. It should work as long as you are online.
 
